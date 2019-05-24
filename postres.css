@@ -1,0 +1,291 @@
+*{
+margin: 0;
+}
+
+.topnav{
+padding: 4%;
+background-color: #F5D6AF;    
+}
+
+.head{
+font-family: 'lobster' ,cursive;
+font-size: 180%;
+color: black;
+text-align: center;
+text-decoration: underline;
+}
+
+.divide{
+padding: 2%;
+background-color: #A1C267;
+}
+
+.dulces{
+margin: 1% 40%;
+background-color: #DCD4D5;
+width: 15%;
+padding: 1%;
+}
+
+.dulces p{
+font-family: cursive;
+color: black;
+text-align: center;
+}
+
+.contet{
+margin-top: 2%;
+height: 100%;
+position: relative;
+left: 1%;
+width: 99%;
+padding-bottom: 20%;
+}
+    
+.a{
+background-image: url(pesti%C3%B1os-mielWeb.jpg);
+background-size: 100% 100%;
+top: 0;
+position: absolute;
+height: 100%;
+left: 10%;
+width: 18%;
+background-color: gainsboro;
+}
+
+.btn1{
+background-image: radial-gradient(ellipse farthest-corner at 0px 65px , #89F118 -2%, rgba(0, 1, 0, 1));
+border-radius: 12px;
+border: none;
+left: 25%;
+bottom: 4%;
+position: absolute;
+padding: 6%;
+width: 50%;
+}
+
+.btn1 a{
+text-decoration: none;
+color: silver;
+font-size: 100%;
+font-family: cursive;    
+}
+
+.b{
+background-image: url(frixuelos_Australianos.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+top: 0;
+position: absolute;
+left: 30%;
+width: 18%;
+background-color: gainsboro;
+height: 100%;
+}
+
+.btn2{
+background-image: radial-gradient(ellipse farthest-corner at 0px 65px , #00FFFF -2%, rgba(0, 0, 0, 1));
+border-radius: 12px;
+border: none;
+left: 25%;
+bottom: 4%;
+position: absolute;
+padding: 6%;
+width: 50%;  
+}
+
+.btn2 a{
+text-decoration: none;
+color: silver;
+font-size: 100%;
+font-family: cursive; 
+}
+
+.c{
+background-image: url(tartaletas-de-fresa.jpg);
+background-size: 100% 100%;
+top: 0;
+position: absolute;
+left: 50%;
+width: 18%;
+background-color: gainsboro;
+height: 100%;   
+}
+
+.btn3{
+background-image: radial-gradient(ellipse farthest-corner at 0px 65px , #89F118 -2%, rgba(0, 0, 0, 1));
+border-radius: 12px;
+border: none;
+left: 25%;
+bottom: 4%;
+position: absolute;
+padding: 6%;
+width: 50%;  
+}
+
+.btn3 a{
+text-decoration: none;
+color: silver;
+font-size: 100%;
+font-family: cursive; 
+}
+
+.d{
+background-image: url(Tarta-Guinnes-VC18.jpg);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+top: 0;
+position: absolute;
+left: 70%;
+width: 18%;
+background-color: gainsboro;
+height: 100%;     
+}
+
+.btn4{
+background-image: radial-gradient(ellipse farthest-corner at 0px 65px , #00FFFF -2%, rgba(0, 0, 0, 1));
+border-radius: 12px;
+border: none;
+left: 25%;
+bottom: 4%;
+position: absolute;
+padding: 6%;
+width: 50%;    
+}
+
+.btn4 a{
+text-decoration: none;
+color: silver;
+font-size: 100%;
+font-family: cursive; 
+}
+
+
+.cartes{
+padding: 2% 0 15% 0;
+width: 99%;
+position: relative;
+left: 1%;
+margin-bottom: 1%;
+}
+
+.f{
+background-image: url(panesito.jpg);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+top: 2%;
+position: absolute;    
+left: 10%;
+width: 18%;
+background-color: gainsboro;
+height: 100%; 
+}
+
+.btn6{
+background-image: radial-gradient(ellipse farthest-corner at 0px 65px , #00FFFF -2%, rgba(0, 0, 0, 1));
+border-radius: 12px;
+border: none;
+left: 25%;
+bottom: 4%;
+position: absolute;
+padding: 6%;
+width: 50%;  
+}
+
+.btn6 a{
+ text-decoration: none;
+color: silver;
+font-size: 100%;
+font-family: cursive; 
+}
+
+.g{
+background-image: url(puding.jpg);
+background-size: 100% 100%;
+position: absolute;    
+left: 30%;
+width: 18%;
+background-color: gainsboro;
+height: 100%;
+top: 2%; 
+}
+
+
+
+.btn7{
+background-image: radial-gradient(ellipse farthest-corner at 0px 65px , #89F118 -2%, rgba(0, 0, 0, 1));
+border-radius: 12px;
+border: none;
+left: 25%;
+bottom: 4%;
+position: absolute;
+padding: 6%;
+width: 50%;  
+}
+
+.btn7 a{
+ text-decoration: none;
+color: silver;
+font-size: 100%;
+font-family: cursive;     
+}
+
+.h{
+background-image: url(RolloCrepas.JPG);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: absolute;    
+left: 50%;
+width: 18%;
+background-color: gainsboro;
+height: 100%;
+top: 2%;   
+}
+
+.btn8{
+background-image: radial-gradient(ellipse farthest-corner at 0px 65px , #00FFFF -2%, rgba(0, 0, 0, 1));
+border-radius: 12px;
+border: none;
+left: 25%;
+bottom: 4%;
+position: absolute;
+padding: 6%;
+width: 50%;   
+}
+
+.btn8 a{
+  text-decoration: none;
+color: silver;
+font-size: 100%;
+font-family: cursive;    
+}
+
+.i{
+background-image: url(bizcocho.jpg);
+background-size: 100% 100%;
+position: absolute;    
+left: 70%;
+width: 18%;
+background-color: gainsboro;
+height: 100%;
+top: 2%; 
+}
+
+.btn9{
+background-image: radial-gradient(ellipse farthest-corner at 0px 65px , #89F118 -2%, rgba(0, 0, 0, 1));
+border-radius: 12px;
+border: none;
+left: 25%;
+bottom: 4%;
+position: absolute;
+padding: 6%;
+width: 50%;    
+}
+
+.btn9 a{
+  text-decoration: none;
+color: silver;
+font-size: 100%;
+font-family: cursive; 
+}
+

@@ -1,0 +1,106 @@
+*{
+margin: 0;
+}
+
+.lateral{
+margin: 0 10%;
+padding: 1%;
+background-color: limegreen;
+}
+
+.title{
+text-align: center;
+font-family: 'lobster' ,cursive;
+}
+
+.main{
+background-color: azure;
+margin: 0 10%;
+padding: 2%;
+}
+
+.paragraph{
+font-family: sans-serif;
+margin: 3% 10%;
+text-align: justify;
+}
+
+.ing{
+background-color: black;
+color: white;
+font-family: sans-serif;
+border-radius: 12px;
+margin: 2% 25% 2% 25%;
+text-align: center;
+}
+
+.ingred{
+font-family: sans-serif;
+font-size: 20px;
+list-style-type: none;
+margin: 2% 20%;
+text-align: justify;
+}
+
+.statem{
+background-color: black;
+color: white;
+font-family: sans-serif;
+border-radius: 12px;
+margin: 4% 25% 4% 25%;
+text-align: center;
+}
+
+.content{
+font-family: sans-serif;
+margin: 3% 24%;
+text-align: justify;
+font-size: 20px;
+}
+
+.pie{
+padding: 2%;
+background-color: slategray;
+margin: 0 10%;
+}
+
+.herr{
+color: #303030;
+text-decoration: none;
+}
+
+.menu-side{
+transition: 15s;
+list-style-type: none;
+font-family: sans-serif;
+right: 10%;
+position: absolute;
+}
+
+.neto{
+position: relative;
+display:none;
+text-align: justify;
+padding: 10% 0% 10% 4%;
+background-color: #000;
+color: aliceblue;
+}
+
+.neto li{
+padding: 12%;
+}
+
+.neto a{
+padding: 10% 0 10%;
+text-decoration: none;
+color: aliceblue;
+}
+
+.idi{
+border-width: 1px;
+border-color: aliceblue;
+border-top-style: solid;
+}
+#checky{
+display: none;
+}

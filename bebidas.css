@@ -1,0 +1,308 @@
+
+*{
+margin: 0;
+}
+.aguas{
+text-align: center;
+color: #303030;
+text-decoration: underline;
+text-decoration-color: #303030;
+font-family: 'lobster', cursive;
+font-size: 180%;
+}
+
+nav{
+padding: 4%;
+background-color: moccasin;
+}
+
+h3{
+font-size: 160%;
+font-family: 'lobster', cursive;
+color: whitesmoke;
+}
+
+.contenedor{
+position: relative;
+background-color: dodgerblue;
+padding: 2%;
+}
+
+.section{
+width: 100%;
+height: 95%;
+position: relative;
+left: 0;
+}
+
+.a{
+top: 2%;
+left: 10%;
+position: absolute;
+width: 20%;
+height: 50%;
+background-color: #f1f1f1;
+background-image: url(capucchino.jpg);
+background-size:100% 70%;
+background-repeat: no-repeat;
+}
+
+.btn1{
+position: absolute;
+padding: 6%;
+width: 50%;
+border: none;
+box-shadow: 0 0px 5px rgba(0,0,0,8);
+bottom: 10%;
+left: 25%;
+background-color: royalblue;
+}
+
+.btn1 a{
+text-decoration: none;
+color: white;
+}
+
+.b{
+background-image: url(Nueva_vainilla.jpg);
+background-size: 100% 70%;
+background-repeat: no-repeat;
+top: 2%;
+left: 31%;
+background-color: #f1f1f1;
+width: 20%;
+height: 50%;
+position: absolute;
+}
+
+.btn2{
+position: absolute;
+padding: 6%;
+width: 50%;
+border: none;
+box-shadow: 0 0 5px rgba(0,0,0,8);
+bottom: 10%;
+left: 25%;
+background-color: royalblue;
+}
+
+.btn2 a{
+text-decoration: none;
+color: white;
+}
+
+.c{
+top: 2%;
+background-image: url(late.jpg);
+background-size: 100% 70%;
+background-repeat: no-repeat;
+left: 52%;
+background-color: #f1f1f1;
+width: 20%;
+height: 50%;
+position: absolute;
+}
+
+.btn3{
+position: absolute;
+padding: 6%;
+width: 50%;
+border: none;
+box-shadow: 0 0 5px rgba(0,0,0,8);
+bottom: 10%;
+left: 25%;
+background-color: royalblue;
+}
+
+.btn3 a{
+text-decoration: none;
+color: white;
+}
+
+.d{
+background-image: url(frappe-oreo.jpg);
+background-size: 100% 70%;
+background-repeat: no-repeat;
+top: 2%;
+background-color: #f1f1f1;
+width: 20%;
+height: 50%;
+position: absolute;
+left: 73%;
+}
+
+
+.btn4{
+position: absolute;
+padding: 6%;
+width: 50%;
+border: none;
+box-shadow: 0 0 5px rgba(0,0,0,8);
+bottom: 10%;
+left: 25%;
+background-color: royalblue;
+}
+
+.btn4 a{
+text-decoration: none;
+color: white;
+}
+
+.e{
+background-image: url(webkiwi.jpg);
+background-size: 100% 70%;
+background-repeat: no-repeat;
+position: absolute;
+margin-top: 26%;
+left: 10%;
+width: 20%;
+height: 50%;
+background-color: #f1f1f1;
+}
+
+/*ver las imagenes*/ 
+
+.btn5{
+position: absolute;
+padding: 6%;
+width: 50%;
+border: none;
+box-shadow: 0 0 5px rgba(0,0,0,8);
+bottom: 10%;
+left: 25%;
+background-color: royalblue;
+}
+ 
+.btn5 a{
+text-decoration: none;
+color: white;
+}
+
+.f{
+background-image: url(frambuesa.png);
+background-size: 100% 70%;
+background-repeat: no-repeat;
+position: absolute;
+margin-top: 26%;
+left: 31%;
+width: 20%;
+background-color: #f1f1f1;
+height: 50%;
+}
+
+.btn6{
+position: absolute;
+padding: 6%;
+width: 50%;
+border: none;
+box-shadow: 0 0 5px rgba(0,0,0,8);
+bottom: 10%;
+left: 25%;
+background-color: royalblue;
+}
+
+.btn6 a{
+text-decoration: none;
+color: white;
+}
+
+.g{
+background-image: url(cacahuateWEB.jpg);
+background-size: 100% 70%;
+background-repeat: no-repeat;
+position: absolute;
+margin-top: 26%;
+left: 52%;
+width: 20%;
+height: 50%;
+background-color: #f1f1f1;
+}
+
+.btn7{
+position: absolute;
+padding: 6%;
+width: 50%;
+border: none;
+box-shadow: 0 0 5px rgba(0,0,0,8);
+bottom: 10%;
+left: 25%;
+background-color: royalblue;
+}
+
+.btn7 a{
+text-decoration: none;
+color: white;
+}
+
+.h{
+background-image: url(cocoWEB.jpg);
+background-size: 100% 70%;
+background-repeat: no-repeat;
+left: 73%;
+margin-top: 26%;
+position: absolute;
+width: 20%;
+height: 50%;
+background-color: #f1f1f1;
+}
+
+.btn8{
+position: absolute;
+padding: 6%;
+width: 50%;
+border: none;
+box-shadow: 0 0 5px rgba(0,0,0,8);
+bottom: 10%;
+left: 25%;
+background-color: royalblue;
+}
+
+.btn8 a{
+text-decoration: none;
+color: white;
+}
+
+.contento{
+text-decoration: none;
+color: black;
+border-radius: 30px;
+padding: 15px 15px 15px 15px;
+margin: 0% 2% 0%;
+background-color: gainsboro;
+}
+
+
+.i
+{
+top: 111%;
+left: 10%;
+position: absolute;
+width: 20%;
+height: 50%;
+background-color: #f1f1f1;
+}
+
+.btn9{
+position: absolute;
+padding: 6%;
+width: 50%;
+border: none;
+box-shadow: 0 0 5px rgba(0,0,0,8);
+bottom: 10%;
+left: 25%;
+background-color: royalblue;
+}
+
+.btn9 a{
+text-decoration: none;
+color: white;
+}
+
+body{
+background-color: black;
+}
+
+/*---Menus-------------------------------------------------------------------------------------------------------*/
+
+/*  NOTA EL COMANDO FILTLER ES LA PROPIEDAD PARA AÑADIR FILTROSD */
+

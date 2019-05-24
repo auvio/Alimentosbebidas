@@ -1,0 +1,222 @@
+
+/*---Encabezado-------------------------------------------------------------------------------------------------------------------------*/
+
+
+*{
+    margin: 0px;
+}
+
+.arriba{
+    background-color: navajowhite;
+    padding: 3%;
+    padding-left: 40%;
+    margin-left: 14%;
+    color: black;
+}
+
+.atras{
+    text-decoration: none;
+    color: white;
+    float: right;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 150%;
+    border-radius: 50px;
+    transition: all .5s ease;
+}
+
+.atras:hover{
+    background-color: darkslategrey;
+    color: white;
+    transition: all .5s ease;
+}
+
+
+/*---Menu Entero-------------------------------------------------------------------------------------------------------------------------*/
+
+
+ul{
+	list-style-type: none;
+    overflow: hidden;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+    clear: both;
+    margin-left: 14%;
+}
+li {
+	float: left;
+}
+
+
+
+/*---Menu 1-------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+li a, .mermedb{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 50.9px;
+    text-decoration: none;
+    transition: all .5s ease;
+}
+
+li a:hover, mermed:hover mermedb:hover{
+    background-color: darkblue;  
+    transition: all .7s ease;      
+}
+
+.mermed-content{
+    display: none;
+    position: absolute;
+    background-color: #1A6A8F;
+    min-width: 122px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,2);
+    z-index: 1;
+}
+
+.mermed-content a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.mermed-content a:hover{
+    background-color: #000000;
+    color: white;
+    transition: all .7s ease;
+}
+
+.mermed:hover .mermed-content{
+    display: block;
+}
+
+
+
+/*---Menu 2----------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+li a, .mermevb{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 11.7px;
+    text-decoration: none;
+}
+
+li a:hover, mermev:hover mermevb:hover{
+    background-color: darkblue;        
+}
+
+.mermev-content{
+    display: none;
+    position: absolute;
+    background-color: #1A6A8F;
+    min-width: 122px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,2);
+    z-index: 1;
+}
+
+.mermev-content a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.mermev-content a:hover{
+    background-color: #000000;
+    color: white;
+}
+
+.mermev:hover .mermev-content{
+    display: block;
+}
+
+
+/*---Menu 3----------------------------------------------------------------------------------------------------------------------------*/
+
+
+li a, .idiom{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 68.5%;
+    text-decoration: none;
+}
+
+li a:hover, idi:hover idiom:hover{
+    background-color: darkblue;        
+}
+
+.idi-content{
+    display: none;
+    position: absolute;
+    background-color: #1A6A8F;
+    min-width: 122px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,2);
+    z-index: 1;
+}
+
+.idi-content a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.idi-content a:hover{
+    background-color: #000000;
+    color: white;
+}
+
+.idi:hover .idi-content{
+    display: block;
+}
+
+
+/*---Imagenes-------------------------------------------------------------------------------------------------------------------------*/
+
+
+.ima{
+    float: left;
+}
+
+.image{
+    width: 20%;
+    float: right;
+    border-radius: 20%;
+}
+
+
+/*---Texto-----------------------------------------------------------------------------------------------------------------------------*/
+
+
+.woah{
+    text-align: center;
+    background-color: floralwhite;
+    padding: 30px;
+    margin-left: 14%;
+    background-position: top;
+    align-content: space-around;
+    height: 80%;
+    font-size: 120%;
+    color: black;
+}
+
+
+/*---Video-----------------------------------------------------------------------------------------------------------------------------*/
+
+
+.vide{
+    width: 47%;
+}
+

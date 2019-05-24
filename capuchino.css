@@ -1,0 +1,50 @@
+*{
+margin: 0;
+}
+
+.lateral{
+
+}
+
+h1{
+background-color: saddlebrown;
+text-align: center;
+color: oldlace;
+font-family: 'lobster', cursive;
+margin: 0 9%;
+padding: 1%;
+}
+
+h2{
+text-align: center;
+color: silver;
+}
+
+p{
+text-align: justify;
+color: white;
+margin: 0 5%;
+}
+
+.text{
+margin: 2 9%;
+background-color: #303030;
+height: auto;
+}
+
+img{
+max-width: 35%;
+}
+
+.touch{
+text-align: center;
+}
+
+.tabla{
+color: silver;
+margin: 0 3%;
+}
+
+
+
+

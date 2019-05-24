@@ -1,0 +1,144 @@
+*{
+margin: 0;
+}
+
+
+
+.topnav{
+margin-top: auto;
+position: fixed;
+padding:1%;
+min-width: 100%;
+background-color: navajowhite;
+z-index: 1;
+}
+
+.close{
+margin: 1% 0 0 0;
+float: right;
+position: fixed;
+}
+
+.signo{
+padding: 2%;
+}
+
+.h1{
+font-size: 150%;
+font-family: sans-serif;
+text-align: center;
+background-color: floralwhite;
+margin: 1% 20% 2% 20%;
+padding: 1%;
+font-family: cursive;
+}
+
+.title{
+background-color: floralwhite;
+margin: 1% 25% 3% 25%;
+}
+
+.caja2{
+left: 6%;
+position: relative;
+width: 85%;
+background-color: aliceblue;
+display: flex;
+flex-direction: column;
+flex-wrap: nowrap;
+}
+
+.question{
+font-size: 145%;
+text-align: center;
+padding: 1%;
+}
+
+.parraf{
+margin: 1% 15% 3% 15%;
+text-align: justify;
+font-size: 145%;
+font-family: sans-serif;
+} 
+
+
+
+/*-Imagen-*/
+
+
+
+/*menu desplegable*/
+
+.check{
+display: none;
+}
+
+.menu{
+float: left;
+background-color: #303030;
+padding: 1%;
+/* este width es la anchura oficial del menú */
+width: 20%;
+/* esta es la altura del menú */
+height: 100%;
+/* aqui es el raz de la izquierda de donde se encuentra el menú */
+margin-left: 0%;
+/* esta es una posición que se le da al menú y es quieta o fija */
+position: fixed;
+transition: all 1.5s ease;
+/* esta es la ubicación en la pantalla oficial del menú la misma que tenemos en el script para cerrarlo cuando se abra */
+margin: 0 -32%;
+overflow-x: scroll;
+/* esto es la imagen que tiene en un inicio y sus propiedades */
+background-image: url(tatli-cenneti.jpg);
+background-size: 100% 25%;
+background-repeat: no-repeat;
+z-index: 1;
+}
+
+
+.menu li{
+list-style-type: none;
+}
+
+.menu li a{
+text-decoration: none;
+color: silver;
+text-align: center;
+margin: 2% 25% 2% 25%;
+padding: 15% 4% 15% 4%;
+}
+
+
+.a, .b, .c, .d, .e, .f, .g, .h, .i{
+display: block;
+background-color: transparent;
+min-width: 10%;
+min-height: 4%;
+font-size: 145%;
+}
+
+.d, .i{
+border-top: solid 1px silver;
+} 
+
+
+/*LISTA DE RECETAS---------------------------------------------------*/
+
+/*le quitamos las lineas de referencia y le damos color a la fuente*/
+
+
+
+.dessert::after{
+display: inline;
+content: "▼";
+color: darkgray;
+font-size: 9px;
+padding: 0% 18% 0% 18%;
+}
+
+
+body{
+
+
+}
